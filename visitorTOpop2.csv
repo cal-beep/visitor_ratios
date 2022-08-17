@@ -1,5 +1,4 @@
 "geo_area","pop2021","visitor2021","ratio","visitorTOpop","region","fips","x","y","order","hole","piece","group","abbr","full","county"
-"South Dakota",895376,13500000,0.07,1508,"South Dakota",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Aurora",2748,46710,0.06,1700,"Missouri River","46003",95466.61760581,-117696.94501759,42011,FALSE,1,"46003.1","SD","South Dakota","Aurora County"
 "Aurora",2748,46710,0.06,1700,"Missouri River","46003",133591.60774399,-116750.59131354,42012,FALSE,1,"46003.1","SD","South Dakota","Aurora County"
 "Aurora",2748,46710,0.06,1700,"Missouri River","46003",133744.77462021,-124442.57731049,42013,FALSE,1,"46003.1","SD","South Dakota","Aurora County"
